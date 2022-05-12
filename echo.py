@@ -2,7 +2,7 @@ from this import d
 
 
 def main():
-    for _ in range(2):
+    for _ in range(3):
         a = input('入力よろ:')
         print(a)
 
